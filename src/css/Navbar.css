@@ -1,0 +1,13 @@
+.navbar {
+    background-color: white;
+    font-size: 17px;
+}
+
+.bg-light {
+    background-color: #a4c6e0 !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#anchor{
+    cursor:pointer ;
+}
